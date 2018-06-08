@@ -1,0 +1,5 @@
+troposphere
+boto3
+nose
+pylint
+common-fanatics-troposphere
